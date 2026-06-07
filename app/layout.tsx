@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  // ここは、SEOやブラウザのタブに表示されるタイトルなどを設定する場所です。
+  // ここは、ブラウザのタブに表示されるタイトルなどを設定する場所です。
   title: "BBS Next.js",
   description: "bbs-nextjsは、Next.jsを使用して構築されたシンプルな掲示板アプリケーションです。",
 };
